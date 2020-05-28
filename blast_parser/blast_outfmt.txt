@@ -1,0 +1,17 @@
+BLASTN OUTFMT 6
+
+0	qseqid
+1	sseqid
+2	length
+3	qlen
+4	slen
+5	pident
+6	positive
+7	mismatch
+8	gaps
+9	qstart
+10	qend
+11	sstart
+12	send
+13	evalue
+14	bitscore
